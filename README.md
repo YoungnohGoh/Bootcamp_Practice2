@@ -1,2 +1,2 @@
 # Bootcamp_Practice2
-Making portfolio in html/css
+Making portfolio with html/css
